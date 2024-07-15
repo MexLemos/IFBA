@@ -1,0 +1,94 @@
+/*======================================================================================*/
+body{background-color: #e2e2e2;}
+p{margin-bottom: 0;} h1, h2, h3, h4, h5, h6{margin: 0;}
+.azul-linha{
+	border-top: 3px solid #ffb81f;
+	background-color: #194161;
+	color: #fff;
+}
+
+.azul-roda{
+	margin-top: 20px;
+	padding-top: 10px;
+	background-color: #194161;
+	color: #fff;
+}
+
+.azul-meio{
+	margin-top: 10px;
+	padding-top: 10px;
+	background-color: #194161;
+	color: #fff;
+}
+.amarelo{
+	padding-top: 10px;
+	background-color: #ffb81f;
+	color: #194161;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    padding: 14px;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #ffb81f;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #ffb81f;
+    border:0;
+}
+
+.btn-primary:hover{
+    background-color: #d79811;
+    border:0;
+}
+
+
+/*========================================================================================*/
+
+.thumbnail {
+
+    background-color:#194161;
+    border: 0;
+    color: #fff;
+
+}
+
+/*================================ PDF ===========================*/
+.logo img{
+	text-align: center;
+	width: 300px;
+	height: 65px;
+	float: left;
+	margin: 40px 200px 30px 500px;
+	
+}
+
+.cabe{
+	background-color: #009bdb;
+	padding: 20px 20px 28px;
+	float: left;
+	width: 220px;
+	border-right: 4px solid #fff;
+	
+}
+
+.cabec{
+	background-color: #009bdb;
+	padding: 18px;
+	float: left;
+	width: 120px;
+	border-right: 4px solid #fff;
+}
+
+.cabeca{
+	background-color: #feee00;
+
+	float: left;
+	width: 200px;
+}
+
+.tabela{
+	margin:30px 0 0 px;
+}
