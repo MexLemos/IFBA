@@ -1,6 +1,7 @@
 # IFBA
 Site Frontend com HTML - CSS - JS para o Instituto de Formação Bancária de Angola
-Feito para estudo do front-end
+Feito para estudo do front-end.
+Crédito: Gilson Correia - Web Designer
 ________________________________________________
 Ferramentas
 HTML5
